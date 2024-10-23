@@ -1,0 +1,12 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Don't check in sensitive files
+**/android/key.properties
+**/android/*.keystore
+**/android/*.jks
