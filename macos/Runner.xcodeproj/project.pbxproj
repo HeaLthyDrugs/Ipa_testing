@@ -1,4 +1,5 @@
 // !$*UTF8*$!
+/* just a commit */
 {
 	archiveVersion = 1;
 	classes = {
